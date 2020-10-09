@@ -1,5 +1,7 @@
 Roguelike
 
+In pyvenv.cfg change home = path to python38-32
+
 Activate venv by:
     1) Navigate to roguelike folder.
     2) deactivate ".\devenv\scripts\activate"
