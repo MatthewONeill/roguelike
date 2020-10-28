@@ -1,3 +1,3 @@
 Roguelike
 
-In pyvenv.cfg change home = path to python38-32
+Following this tutorial: http://rogueliketutorials.com/tutorials/tcod/v2/
